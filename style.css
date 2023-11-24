@@ -365,8 +365,8 @@ body {
 
   /* Ukuran Video Preview Game ketika di mobile */
   .erin-video-content video {
-    width: 360px;
-    height: 180px;
+    width: 330px;
+    height: 150px;
   }
 
   .erin-img-game {
